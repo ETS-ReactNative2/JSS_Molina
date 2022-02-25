@@ -1,0 +1,11 @@
+id: home-one 
+fields:
+  pageTitle: Mani - JSS
+placeholders:
+  jss-main:
+    - componentName: FirstPage
+      fields:
+        heading: This page created for testing this component with sitecore CMS
+        content: |
+          <p>Thanks for using JSS!! </p>
+ 
