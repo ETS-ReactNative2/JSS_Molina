@@ -1,0 +1,12 @@
+id: patient-1
+fields:
+  pageTitle: Patient Detail 1
+placeholders:
+  jss-main:
+    - componentName: PatientInformation
+      fields:
+        firstName: Patient one
+        lastName: New
+        dob: 22-1-22
+        gender: Mail
+        phoneNumber: 88123123123    

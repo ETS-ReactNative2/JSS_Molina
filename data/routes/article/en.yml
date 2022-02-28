@@ -1,0 +1,12 @@
+id: article-test
+fields:
+  pageTitle: Article details - JSS
+placeholders:
+  jss-main:
+    - componentName: ArticleDetail
+      fields:
+        articleTitle: Article Details page
+        articleShortDescription: |
+          <p>Thanks for using JSS!! articleShortDescription </p>
+        articleDetailedDescription: |
+          <p>Thanks for using JSS!! articleDetailedDescription</p>
