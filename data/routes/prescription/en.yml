@@ -1,0 +1,11 @@
+id: prescription-1
+fields:
+  pageTitle: Doctor Prescription
+placeholders:
+  jss-main:
+    - componentName: PrescriptionDetails
+      fields:
+        patientName: Manikandan R
+        patientAge: 26
+        patientPrescription: Colpal
+        
