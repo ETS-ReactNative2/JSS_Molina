@@ -1,0 +1,36 @@
+https://github.com/gopisivanappanvasanthi/molina 
+https://github.com/gopisivanappanvasanthi/cts-16
+
+=========
+https://github.com/JackTheHack/Sitecore.BotFramework/releases/tag/v1.0
+https://chatbotslife.com/sitecore-botframework-is-released-6bdbaac53774
+===========
+
+https://www.linkedin.com/in/gopi-sivanappan-vasanthi-21946821/
+
+https://drive.google.com/drive/folders/1aIcOhDH1dhlOiw9GLp9pDDU9-APgSjCA?usp=sharing
+
+sivagopi123@gmail.com
+https://github.com/gopisivanappanvasanthi
+=========
+
+https://ctssc.dev.local/sitecore/admin/showconfig.aspx
+
+
+http://molina.dev.local/sitecore/api/layout/render?item=/maniprofile2&sc_apikey={DF88CB68-9766-4E6D-B768-98617C9555B5}
+
+===============
+New-SelfSignedCertificate -CertStoreLocation Cert:\LocalMachine\my -DnsName "*.sitecore.com" -FriendlyName "*.sitecore.com" -NotAfter (Get-Date).AddYears(25)
+
+=========
+https://www.swatiguptablogs.com/2021/09/unknown-connection-string-name-1.html#:~:text=If%20you%20are%20facing%20issue,config%E2%80%9D.
+
+https://ctssc.dev.local/unicorn.aspx
+
+==========
+
+New-SelfSignedCertificate -CertStoreLocation Cert:\LocalMachine\my -DnsName "*.sitecore.dev.local" -FriendlyName "*.sitecore.dev.local" -NotAfter (Get-Date).AddYears(25)
+
+
+AE:3D:CB:D2:24:9A:FE:0A:80:4D:3B:13:2B:2A:6B:71:4E:C3:D6:BD
+
