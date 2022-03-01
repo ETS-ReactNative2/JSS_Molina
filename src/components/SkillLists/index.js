@@ -2,7 +2,8 @@ import React from 'react';
 import { Text } from '@sitecore-jss/sitecore-jss-react';
 
 const SkillLists = (props) => {
-  const listOfDomain = props.fields.items;
+  console.log(props);
+  const listOfDomain = props.fields.items ? props.fields.items : props.fields.domain;
   return (
     <div>
       {listOfDomain &&
